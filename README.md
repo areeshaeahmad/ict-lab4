@@ -8,4 +8,5 @@ This project asks for your name and says hello.
 ## How to run
 1. Install Python
 2. Run `python hello.py`
-Edited on GitHub.com 
+## Author
+Areeshae Ahmad, BEIS-06 A
